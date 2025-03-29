@@ -7,12 +7,37 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/indie-game-development-insights/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/game-merchandise-collectibles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/game-lore-deep-dives/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/esports-competitive-gaming/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
