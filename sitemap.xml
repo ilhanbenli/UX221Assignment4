@@ -42,6 +42,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/fitforge-strength-muscle-guide-ebook-19-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/resistance-bands-set-29-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/high-performance-gym-hoodie-39-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/protein-shaker-bottle-14-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/30-day-fat-loss-challenge-digital-program-29-99/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
